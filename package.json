@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cli-color": "^1.1.0",
-    "play-sound": "0.0.9"
+    "find-exec": "0.0.8"
   }
 }
