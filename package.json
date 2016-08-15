@@ -1,0 +1,15 @@
+{
+  "name": "outrun",
+  "version": "0.1.0",
+  "description": "",
+  "main": "outrun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "play-sound": "0.0.9"
+  }
+}
