@@ -1,9 +1,10 @@
+#!/usr/bin/env node
+
 const child_process = require('child_process')
 const spawn = child_process.spawn
 const clc = require('cli-color')
 const fs = require('fs')
 const findExec = require('find-exec')
-
 
 function PlaySound(){
   this.players = [
