@@ -14,5 +14,9 @@
   },
   "bin": {
     "outrun": "./outrun.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Jinksi/outrun.git"
   }
 }

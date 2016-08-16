@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 
+"use strict"
+
 const child_process = require('child_process')
 const spawn = child_process.spawn
 const clc = require('cli-color')
 const fs = require('fs')
 const path = require('path')
 const findExec = require('find-exec')
+
+let isFile
 
 function PlaySound(){
   this.players = [
